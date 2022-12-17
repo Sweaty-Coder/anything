@@ -4,7 +4,7 @@
 header {
 
   align-items: center;
-  background-color: white;
+  background-color: purple;
 
     position:fixed;
        top:0;
@@ -193,7 +193,7 @@ html {
   border: 1px solid purple;
   opacity: .55;
 }
-.home-container{
+#home-container{
   background-color: white;
   border-radius: 5px;
   border-width: 4px;
@@ -210,7 +210,8 @@ html {
   border-color: purple;
   border-width: 5px;
   margin: 30px;
-  padding: 20px;
+  font-size: 70px;
+  padding: 10px;
 }
 #play-button{
   border-radius: 7px;
