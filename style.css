@@ -196,9 +196,9 @@ html {
 #home-container{
   background-color: white;
   border-radius: 5px;
-  border-width: 4px;
+  border-width: 7px;
   border-style: groove;
-  border-color: black;
+  border-color: purple;
   max-width: 800px;
   height: auto;
   padding: 40px;
@@ -210,8 +210,8 @@ html {
   border-color: purple;
   border-width: 5px;
   margin: 30px;
-  font-size: 70px;
-  padding: 10px;
+  font-size: 40px;
+  padding: 30px;
 }
 #play-button{
   border-radius: 7px;
@@ -220,5 +220,6 @@ html {
   background-color: greenyellow;
   border-style: groove;
   margin-top: 40px;
-  padding: 30px;
+  padding: 50px;
+  font-size: 70px;
 }
