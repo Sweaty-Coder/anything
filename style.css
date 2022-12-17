@@ -13,6 +13,9 @@ header {
   width: 100%
   
 }
+*{
+  font-family: 'Courier New', Courier, monospace;
+}
 
 
 
@@ -195,7 +198,7 @@ html {
 }
 #home-container{
   background-color: white;
-  border-radius: 5px;
+  border-radius: 13px;
   border-width: 7px;
   border-style: groove;
   border-color: purple;
@@ -215,11 +218,11 @@ html {
 }
 #play-button{
   border-radius: 7px;
-  border-width: 4px;
+  border-width: 7px;
   border-color: purple;
   background-color: greenyellow;
   border-style: groove;
   margin-top: 40px;
-  padding: 50px;
-  font-size: 70px;
+  padding: 20px;
+  font-size: 60px;
 }
